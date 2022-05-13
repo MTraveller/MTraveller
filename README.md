@@ -5,5 +5,6 @@ Fast forward 2021 I joined Code Institute to learn and become a fullstack softwa
 
 
 | GitHub Stats | Most Used Languages |
+|:———:|:———:|
 |![MTraveller’s GitHub stats](https://github-readme-stats.vercel.app/api?username=MTraveller&show_icons=true&theme=radical)|
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MTraveller&layout=compact&theme=radical)|
