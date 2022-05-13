@@ -10,4 +10,4 @@ Fast forward 2021 I joined Code Institute to learn and become a fullstack softwa
 
 <br>
 
-Reach me at [Linkedin Profile](https://www.linkedin.com/in/mtantouri/ ”LinkedIn Profile”)
+Reach me at [Linkedin-Profile](https://www.linkedin.com/in/mtantouri/ ”LinkedIn Profile”)
