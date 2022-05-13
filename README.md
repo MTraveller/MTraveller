@@ -1,7 +1,12 @@
-Hello 👋 my name is Mahmoud Tantouri and I love software!
-Since 2009 I have been working with servers, hosting, domains, DNS, websites, marketing etc. and always felt something is missing. To truely shine and progress I had to fill a void that has been there from the begining of my career change into tech. I was like walking with a missing leg, couldn't walk properly nor run. During the years I had played around with some code, be it PHP or Javascript, but never understood the fundamentals.
+Hi 👋 I’m Mahmoud and I love software!
 
-Fast forward 2021 I joined Code Institute to learn and become a fullstack software developer to satisfy the love I have for programming for the internet. I go beyond the basics or needed skills and knowledge. Code Institute started out with HTML & CSS to later include Javascript, then moving on to Python after which we must put all learned languages into a single fullstack project. Between the projects I would buy and study materials outside Code Institute to further understand and fine-tune my knowledge.
+<br>
+
+Since 2009 I have been working with servers, hosting, domains, DNS, websites, marketing etc. and always felt something was missing. To truely shine and progress I had to fill a void that had been there from the begining of my career change into tech. I was like walking with a missing leg, couldn't walk properly nor run. During the years I had played around with some code, be it PHP or Javascript, but never understood the fundamentals.
+
+Fast forward 2021 I joined Code Institute to learn and become a fullstack software developer to satisfy the love I have for programming. I go beyond the basics and invest and continues to invest in myself, broaden my skill set and knowledge.
+
+Code Institute started out with HTML & CSS to later include Javascript, then moving on to Python after which we have to put all learned languages into a single fullstack project. Between the projects I would buy and study materials outside Code Institute to further understand and fine-tune my knowledge.
 
 <br>
 
@@ -10,6 +15,8 @@ I've set out to further widen my skill set and learn:
 Data structures and algorithms, design patterns.
 
 C#, Node.js, GraphQL, Gatsby, React Native and Docker.
+
+Future learnings includes Flutter, Kotlin, Swift, Go, SolidJS.
 
 <br>
 
