@@ -10,4 +10,6 @@ Fast forward 2021 I joined Code Institute to learn and become a fullstack softwa
 
 <br>
 
-Reach me at [Linkedin-Profile](https://www.linkedin.com/in/mtantouri/)
+Reach me at [LinkedIn](https://www.linkedin.com/in/mtantouri/)
+
+I am open to be hired and currently looking for a job as a junior software developer, frontend, backend or full stack.
