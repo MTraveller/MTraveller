@@ -27,4 +27,4 @@ Future learnings includes Flutter, Kotlin, Swift, Go, SolidJS.
 
 Reach me at [LinkedIn](https://www.linkedin.com/in/mtantouri/)
 
-I am open to be hired and currently looking for a job as a junior software developer, frontend, backend or full stack.
+I am open to job offers as a junior software developer, frontend, backend or full stack.
