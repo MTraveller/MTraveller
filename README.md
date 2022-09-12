@@ -30,3 +30,5 @@ Reach me at [LinkedIn](https://www.linkedin.com/in/mtantouri/)
 [![linkedin](https://linkedin-github.herokuapp.com/api/render/Mahmoud%20Tantouri/Jr.%20Software%20Developer/Student/Self-Study/dark/https%3A%2F%2Fmedia-exp1.licdn.com%2Fdms%2Fimage%2FC4E03AQF77cqq3q7anw%2Fprofile-displayphoto-shrink_200_200%2F0%2F1646830647584%3Fe%3D2147483647%26v%3Dbeta%26t%3D1xbqgoZQoS3t4oT9M6RO4YDnaepYW3iKAIV90KD-8TQ)](https://www.linkedin.com/in/mtantouri)
 
 I am open to job offers as a junior software developer, frontend, backend or full stack.
+
+![](https://hit.yhype.me/github/profile?user_id=26313521)
