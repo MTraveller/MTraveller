@@ -31,4 +31,5 @@ Reach me at [LinkedIn](https://www.linkedin.com/in/mtantouri/)
 
 I am open to job offers as a junior software developer, frontend, backend or full stack.
 
+![](https://komarev.com/ghpvc/?username=MTraveller&color=green)
 ![](https://hit.yhype.me/github/profile?user_id=26313521)
