@@ -1,33 +1,54 @@
-Hi 👋 I’m Mahmoud and I love software!
+<h2 align="left">Hi 👋! I'm Mahmoud and I'm a full stack software developer, living in Sweden.</h2>
 
-<br>
+###
 
-Since 2009 I have been working with servers, hosting, domains, DNS, websites, marketing etc. and always felt something was missing. To truely shine and progress I had to fill a void that had been there from the begining of my career change into tech. I was like walking with a missing leg, couldn't walk properly nor run. During the years I had played around with some code, be it PHP or Javascript, but never understood the fundamentals.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=MTraveller" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=MTraveller" height="150" alt="languages graph"  />
+</div>
 
-Fast forward 2021 I joined Code Institute to learn and become a fullstack software developer to satisfy the love I have for programming. I go beyond the basics and continues to invest in myself, to broaden my skill set and knowledge.
+###
 
-Code Institute started out with HTML & CSS to later include Javascript, then moving on to Python after which we have to put all learned languages into a single fullstack project. Between the projects I would buy and study materials outside Code Institute to further understand and fine-tune my knowledge.
+<img align="right" width="200" height="200" src="https://i.imgur.com/iN2yKtw.gif"  />
 
-<br>
+###
 
-I've set out to further widen my skill set and learn:
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="42" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="30" width="42" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" width="42" alt="cplusplus logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" width="42" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="30" width="42" alt="jquery logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="42" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-plain.svg" height="30" width="42" alt="gatsby logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" width="42" alt="django logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" width="42" alt="mongodb logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" width="42" alt="bootstrap logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" width="42" alt="tailwindcss logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" width="42" alt="docker logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="30" width="42" alt="jetbrains logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" width="42" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" width="42" alt="postgresql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" width="42" alt="npm logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="30" width="42" alt="yarn logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" width="42" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="30" width="42" alt="illustrator logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" width="42" alt="photoshop logo"  />
+</div>
 
-Data structures and algorithms, design patterns.
+###
 
-C#, .NET, Node.js, GraphQL, Gatsby, React Native and Docker.
+<div align="left">
+  <a href="https://linkedin.com/in/mtantouri" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
 
-Future learnings includes Flutter, Kotlin, Swift, Go, SolidJS.
-
-<br>
-
-![MTraveller’s GitHub stats](https://github-readme-stats.vercel.app/api?username=MTraveller&show_icons=true&layout=compact&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MTraveller&layout=compact&theme=radical)
-
-<br>
-
-Reach me at [LinkedIn](https://www.linkedin.com/in/mtantouri/)
-
-[![linkedin](https://linkedin-github.herokuapp.com/api/render/Mahmoud%20Tantouri/Jr.%20Software%20Developer/Student/Self-Study/dark/https%3A%2F%2Fmedia-exp1.licdn.com%2Fdms%2Fimage%2FC4E03AQF77cqq3q7anw%2Fprofile-displayphoto-shrink_200_200%2F0%2F1646830647584%3Fe%3D2147483647%26v%3Dbeta%26t%3D1xbqgoZQoS3t4oT9M6RO4YDnaepYW3iKAIV90KD-8TQ)](https://www.linkedin.com/in/mtantouri)
+###
 
 I am open to job offers as a junior software developer, frontend, backend or full stack.
 
